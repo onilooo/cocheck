@@ -1,3 +1,4 @@
+# Please open up an issue when an error occurs!
 # cocheck
 🌟 A simple connectivity checker 🔌
 ## Installation

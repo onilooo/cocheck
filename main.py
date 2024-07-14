@@ -1,4 +1,3 @@
-import os
 import argparse
 import requests
 import simple_colors

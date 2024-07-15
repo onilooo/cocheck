@@ -24,7 +24,9 @@ jobs:
       with:
         python-version: "3.10"
     - name: Install dependencies
-      run: pip install cocheck, requests, simple-colors
+      run: pip install cocheck
+           pip install requests
+           pip install simple-colors
       
     - name: Lint with flake8
       run: |

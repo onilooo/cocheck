@@ -1,0 +1,2 @@
+requests==2.32.3
+simple-colors==0.1.5
